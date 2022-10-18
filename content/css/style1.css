@@ -1,0 +1,68 @@
+.active > a {
+    color: red !important;
+    background-color: white;
+}
+
+header {
+    background-color: #fff;
+    margin: 0;
+    box-shadow: 0 1px 4px #2196f3;
+}
+
+.bg-primary {
+    background-color: #2196f3 !important;
+}
+
+.bg-warning {
+    background-color: yellow !important;
+}
+
+.primary-color {
+    color: #2196f3 !important;
+}
+
+footer {
+    background: #171618;
+    padding: 30px;
+}
+
+.btn-sm {
+    height: 36px;
+    padding: 0 18px;
+    border-radius: 18px;
+    line-height: 34px;
+}
+
+.product-card{
+    border: 0;
+}
+
+.noidung{
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 7px;
+}
+
+.chuthich{
+    text-align: center;
+    font-size:  x-large;
+}
+
+.tieude{
+    text-align: center;
+    font-size: 70px;
+    font-family: "Roboto Slab", Sans-serif;
+}
+
+.act{
+    color: red;
+}
+
+.chitiet{
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.breadcrumb{
+    background-color: #f9f9f9;
+}
